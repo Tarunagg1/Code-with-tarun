@@ -1,13 +1,13 @@
 /*
 👉 "Code-with-tarun" - 04 #javascriptDailyEpisode4
-👉 Singleton Design Pattern Explanation & Impplementaton By Letest Approach ES6
+
+👉 Singleton Design Pattern Explanation & Impplementaton By Letest Approach ES6. One of the Most asked interview question.
 
 The singleton design pattern is used in scenarios when we need exactly one instance of an interface (class or function).
 In a singleton design pattern, only one object is created for each interface (class or function) and the same object is returned every time when called.
 
-singleton interface (class or function) ensures that it creates only one instance, provides a global access point to the state, 
+singleton interface (class or function) ensures that it creates only one instance, provides a global access point to the state,
 and makes sure that the instance is only created the first time.
-
 
 💡Use Cases :-
 👉1) Configuration object across the system.
@@ -15,15 +15,14 @@ and makes sure that the instance is only created the first time.
 👉3) The Singleton provides a single global access point to the instance, allowing other parts of the code to easily access and use it.
 👉4) Implement caching or logging mechanisms
 👉5) Redux in React uses SDP to create one single immutable global object.
-👉6) Ensure thread safety in multi-threaded environments: 
+👉6) Ensure thread safety in multi-threaded environments:
 
 
 GitHub repo name - "Code-with-tarun"
-GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/map.polyfill.js
+GitHub repo code link - https://lnkd.in/dK2jQeBB
 
-Wait, It's not the end, We can create our own custom map ( Polyfill of map ) Check the code snippet below.
 
-Please share other use cases of map function in the comment section,
+Please share other more use cases of singleton design pattern in the comment section,
 
 Hit #like, #share, and follow Tarun aggarwal for daily javaScript codes & tips.
 
@@ -31,7 +30,6 @@ Hit #like, #share, and follow Tarun aggarwal for daily javaScript codes & tips.
 #developer #community #content #interview #webdeveloper #coding
 
 Happy coding!!
-
 */
 
 
