@@ -49,7 +49,7 @@
 
 
 // GitHub repo name - "Code-with-tarun"
-// GitHub repo code link - https://lnkd.in/db_NZC8s
+// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/forEach.polyfill.js
 
 
 // Wait, It's not the end, We can create our own custom forEach ( Polyfill of forEach ) Check the code snippet below.
@@ -62,7 +62,6 @@
 // #developer #community #content #interview #webdeveloper #coding
 
 // Happy coding!!
-
 
 let students = [
     { name: "Tarun", city: "delhi" },
@@ -77,7 +76,6 @@ const displayData = ({ name }, index, array) => {
 };
 
 students.forEach(displayData);
-
 
 // Create Custom own Polyfill of forEach
 Array.prototype.myCustomforEach = function (callback) {
