@@ -55,7 +55,7 @@
 
 
 // GitHub repo name - "Code-with-tarun"
-// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/map.polyfill.js
+// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/filter.polyfilll.js
 
 // Wait, It's not the end, We can create our own custom filter ( Polyfill of filter ) Check the code snippet below.
 
