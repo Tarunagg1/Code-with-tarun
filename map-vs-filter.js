@@ -52,7 +52,7 @@
 
 // GitHub repo name - "Code-with-tarun"
 
-// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/map.polyfill.js
+// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/map-vs-filter.js
 
 // Please share other use cases of forEach & Map function in the comment section,
 
