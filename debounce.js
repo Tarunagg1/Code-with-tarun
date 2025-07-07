@@ -14,7 +14,7 @@
 
 
 // GitHub repo name - "Code-with-tarun"
-// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/map.polyfill.js
+// GitHub repo code link - https://github.com/Tarunagg1/Code-with-tarun/blob/master/debounce.js
 
 
 // Please share other use cases of dbounde in the comment section,
